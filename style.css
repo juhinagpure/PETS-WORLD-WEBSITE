@@ -134,6 +134,12 @@ img {
   border-radius: .5rem;
   padding: 5px;
  }
+ .pet1{
+  text-decoration: underline;
+  text-transform: capitalize;
+  text-decoration-color: tomato;
+  border-radius: .5rem;
+ }
 
 
 
